@@ -131,6 +131,21 @@
    
 
     "window.zoomLevel": 1,
+    //=================================
+        VS Code Include Path Error
+    //=================================
+    //setting->top right corner->setting.json
+
+    //add this:
+
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "C:/Program Files/CodeBlocks/MinGW/x86_64-w64-mingw32/include"
+    ],
+    "C_Cpp.default.compilerPath": "C:/Program Files/CodeBlocks/MinGW/bin/gcc.exe",
+
+
+=================================
 
    
 
