@@ -1,0 +1,2 @@
+ভিএস কোড এর সেটিংস এ গিয়ে সার্চ করবেন, terminal.integrated.shellIntegration.enabled  
+দেখবেন একটা  sign দেওয়া আছে তা unsign করে দিলে সলভ হয়ে যাবে।
